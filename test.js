@@ -1,1 +1,1 @@
-alert("hi")
+$("body").hide()
